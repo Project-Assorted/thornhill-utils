@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thornhill Utilities</title>
+    <link>https://secret.the-machine.org/</link>
+    <description>Recent content on Thornhill Utilities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2019 10:34:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://secret.the-machine.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://secret.the-machine.org/about/</link>
+      <pubDate>Thu, 19 Sep 2019 10:27:03 -0400</pubDate>
+      
+      <guid>https://secret.the-machine.org/about/</guid>
+      <description>Thornhill Utilities creates innovative solutions for energy and power infrastructure across the globe, with a focus on developing new technologies for the United States power grid. We contract our patented SmartGrid solution exclusively for US government agencies to upgrade and maintain SmartGrid across the US. Our services are available to private institutions, where we can develop unique and efficient smart-technology solutions for your energy requirements.</description>
+    </item>
+    
+  </channel>
+</rss>
