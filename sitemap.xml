@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://secret.the-machine.org/</loc>
+    <loc>//secret.the-machine.org/</loc>
     <lastmod>2019-09-19T10:49:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://secret.the-machine.org/about/</loc>
+    <loc>//secret.the-machine.org/about/</loc>
     <lastmod>2019-09-19T10:49:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://secret.the-machine.org/tags/</loc>
+    <loc>//secret.the-machine.org/tags/</loc>
   </url>
   
 </urlset>
